@@ -1,0 +1,43 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015 Launcher.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015 Launcher.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015 Launcher.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Form1.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Resources.resources
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.vbproj.GenerateResource.Cache
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.xml
+C:\Users\Tim\AppData\Local\Temporary Projects\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Launcher.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Resources.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.UpdateLog.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Updater.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.vbproj.GenerateResource.Cache
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.xml
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.exe
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.xml
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.pdb
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.About.resources
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.exe.manifest
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.application
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.exe.manifest
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.application
+C:\Users\Tim\documents\visual studio 2010\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.News.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.exe
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.xml
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.pdb
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.exe.manifest
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.application
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.exe
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.pdb
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\bin\Debug\2D Fighter Maker 2015.xml
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.About.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Launcher.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Resources.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.News.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.UpdateLog.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\_2D_Fighter_Maker_2015_Launcher.Updater.resources
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015 Launcher.vbproj.GenerateResource.Cache
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.exe.manifest
+C:\Users\Tim\Dropbox\Projects\2D Fighter Maker 2015 Launcher\2D Fighter Maker 2015 Launcher\obj\x86\Debug\2D Fighter Maker 2015.application
